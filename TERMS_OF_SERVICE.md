@@ -8,7 +8,6 @@ Bu İstifadə Şərtləri RentCarBaku mobil tətbiqindən istifadəyə aiddir. T
 ## 1. Xidmət təminatçısı
 
 **Xidmət:** RentCarBaku  
-**Ünvan:** Bakı, Nərimanov rayonu, Təbriz küçəsi 45  
 **E-poçt:** info@rentcarbaku.az
 
 ## 2. Tətbiqin məqsədi
@@ -145,5 +144,4 @@ Tətbiqin funksiyaları, biznes prosesi və ya hüquqi tələblər dəyişdikdə
 Bu şərtlərlə və ya icarə xidməti ilə bağlı müraciətlər üçün:
 
 **RentCarBaku**  
-Bakı, Nərimanov rayonu, Təbriz küçəsi 45  
 **E-poçt:** info@rentcarbaku.az
