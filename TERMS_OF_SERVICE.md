@@ -19,7 +19,7 @@ RentCarBaku tətbiqi aşağıdakı məlumat və əlaqə imkanlarını təqdim ed
 - avtomobilin cari və gözlənilən müsaitlik vəziyyəti;
 - sevimli avtomobillər və könüllü müsaitlik bildirişləri;
 - telefon və WhatsApp vasitəsilə icarə müraciəti;
-- RentCarBaku ünvanı, iş saatları və əlaqə məlumatları.
+- RentCarBaku iş saatları və əlaqə məlumatları.
 
 Tətbiq məlumatlandırma və müraciət vasitəsidir. Tətbiqdə göstərilən avtomobili seçmək və ya WhatsApp mesajı hazırlamaq öz-özlüyündə təsdiqlənmiş rezervasiya və ya bağlanmış icarə müqaviləsi yaratmır.
 
