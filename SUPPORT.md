@@ -5,7 +5,6 @@ RentCarBaku tətbiqi ilə bağlı texniki sual, məxfilik müraciəti və ya avt
 ## Əlaqə
 
 **RentCarBaku**  
-Bakı, Nərimanov rayonu, Təbriz küçəsi 45  
 **E-poçt:** info@rentcarbaku.az
 
 ## Müraciətdə nə yazılmalıdır?
