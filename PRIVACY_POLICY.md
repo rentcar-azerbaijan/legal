@@ -131,5 +131,4 @@ Tətbiqin funksiyaları, xidmət təminatçıları və ya hüquqi tələblər d�
 Məxfiliklə bağlı müraciətlər üçün:
 
 **RentCarBaku**  
-Bakı, Nərimanov rayonu, Təbriz küçəsi 45  
 **E-poçt:** info@rentcarbaku.az
