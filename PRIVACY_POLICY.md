@@ -10,7 +10,6 @@ RentCarBaku şəxsi həyatın toxunulmazlığına hörmət edir. Bu Məxfilik Si
 ## 1. Məlumat nəzarətçisi və əlaqə
 
 **Xidmət:** RentCarBaku  
-**Ünvan:** Bakı, Nərimanov rayonu, Təbriz küçəsi 45  
 **E-poçt:** info@rentcarbaku.az
 
 Məxfiliklə bağlı sual, etiraz, giriş və ya silinmə tələbi üçün yuxarıdakı e-poçt ünvanına müraciət edə bilərsiniz.
